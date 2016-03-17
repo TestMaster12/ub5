@@ -4,6 +4,7 @@ function run(msg, matches)
 end
 return {
   description = "", 
+  
   usage = "",
   patterns = {
     "^/myinfo$",
